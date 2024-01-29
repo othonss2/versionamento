@@ -1,4 +1,14 @@
+*{
+    margin: 1rem;
+}
+
 h1{
     font-size: 2rem;
     color: blue;
+}
+
+p{
+    width: 600px;
+    text-align: justify;
+    line-height: 2rem;
 }
